@@ -1,9 +1,8 @@
-body {
-    width: 100% !important;
-    background-color: #f6f3ee !important;
-}
-
 .menu-cursor:hover {
     cursor: pointer;
-    background-color: #a5a5a5;
+    color: #ffffff !important;
+}
+
+.bg-linar {
+    background: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));
 }
