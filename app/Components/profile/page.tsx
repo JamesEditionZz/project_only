@@ -1,4 +1,4 @@
-'use cilent'
+'use client'
 import React, { useState } from "react";
 import "./profile.css";
 import Image from "next/image";
