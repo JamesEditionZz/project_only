@@ -127,7 +127,7 @@ export default function page() {
                 <div className="border-1 border rounded-4 border-radius-up">
                   <Image
                     className="mb-2 mt-3"
-                    src="icon/Laravel.png"
+                    src="icon/laravel.png"
                     width="80"
                     height="80"
                     alt="Laravel"
@@ -151,7 +151,7 @@ export default function page() {
                 <div className="border-1 border rounded-4 border-radius-up">
                   <Image
                     className="mb-2 mt-3"
-                    src="icon/nodejs.png"
+                    src="icon/Nodejs.png"
                     width="100"
                     height="80"
                     alt="Nodejs"
