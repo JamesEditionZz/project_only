@@ -1,0 +1,9 @@
+body {
+    width: 100% !important;
+    background-color: #f6f3ee !important;
+}
+
+.menu-cursor:hover {
+    cursor: pointer;
+    background-color: #a5a5a5;
+}
